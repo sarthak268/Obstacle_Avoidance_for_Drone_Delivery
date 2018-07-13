@@ -1,0 +1,27 @@
+<package>
+	<name>droneObstacleAvoider</name>
+	<version>1.0.1</version>
+	<description>
+    		This package is droneObstacleAvoider.
+	</description>
+	<author email="rafagjordana@gmail.com">Rafael Gómez-Jordana</author>
+	<maintainer email="rafagjordana@gmail.com">Rafael Gómez-Jordana</maintainer>
+  	<license>BSD</license>
+	<url>http://ros.org/wiki/droneObstacleAvoider</url>
+
+  	<buildtool_depend>catkin</buildtool_depend>
+
+	<build_depend>droneMsgsROS</build_depend>
+	<build_depend>droneModuleROS</build_depend>
+  	<build_depend>lib_pugixml</build_depend>
+	<build_depend>lib_cvgutils</build_depend>
+
+	<run_depend>lib_pugixml</run_depend>
+	<run_depend>lib_cvgutils</run_depend>
+	<run_depend>droneMsgsROS</run_depend>
+	<run_depend>droneModuleROS</run_depend>
+
+
+</package>
+
+
