@@ -10,3 +10,7 @@ This repository implements a simple YOLO algorithm for detection of birds for dr
 ### Detection of Kites
 
 <img src="kite_img.jpg">
+
+## System Architecture for Obstacle Detection using Ultrasonic Sensors
+
+<img src="diagram.jpg">
