@@ -14,3 +14,6 @@ This repository implements a simple YOLO algorithm for detection of birds for dr
 ## System Architecture for Obstacle Detection using Ultrasonic Sensors
 
 <img src="diagram.jpg">
+
+# Support
+Like my work? Buy me a coffee: https://ko-fi.com/sarthakbhagat
